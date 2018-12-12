@@ -1,0 +1,28 @@
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\OpenTK.dll
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\RLNET.dll
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\RogueSharp.dll
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\OpenTK.xml
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\OpenTK.dll.config
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\Jonathan\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\cp437_12x12.png
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\cp437_12x12.png
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\OpenTK.dll
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\RLNET.dll
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\RogueSharp.dll
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\OpenTK.xml
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\bin\Debug\OpenTK.dll.config
+C:\Users\jecks\source\repos\Visual Programming Final\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
